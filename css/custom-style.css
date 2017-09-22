@@ -1,0 +1,25 @@
++#feature {
+ +  background-color: #007236 !important;
+ +  color: #fff !important;
+ +  padding: 60px 0 !important;
+ +}
+ +
+ +#feature i,
+ +#feature a,
+ +#feature a:focus,
+ +#feature a:visited{
+ +  color: #fff !important;
+ +}
+ +
+ +#feature a:hover{
+ +  color: #fff !important;
+ +}
+ +
+ +.text-white {
+ +  color: #fff;
+ +}
+ +
+ +
+ +#subscribe .container {
+ +  padding-top: 100px;
+ +} 
